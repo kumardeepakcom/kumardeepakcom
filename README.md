@@ -1,19 +1,22 @@
-I'm [Deepak Kumar](https://kumardeepak.me), a startup enthusiast and a seasoned full-stack web developer with over a decade of experience.
+### Hi, I'm Deepak 👋
 
-I’ve been crafting immersive and stunning web applications with an intense focus on both code quality and user-centric design.
+I'm a Web Application Engineer.
+I build SaaS products, web apps and websites, from design through to deployment.
 
-#### My Skillset
-- 👉 Crafting Customised Websites
-- 👉 Adept at UI & UX Design
-- 👉 Experienced in Full Stack Development
-- 👉 Specialised in JavaScript, Next.js (React), Symfony (PHP)
-- 👉 Proficient in Small Business Website to SaaS Applications
-- 👉 Hidden Benefits: Website Optimisation, Quality Assurance & much more...
+#### What I work on
+- SaaS products and MVPs
+- Full-stack web apps
+- Front-end development from any design
+- UI/UX design
+- Headless CMS setups
+- API and payment integrations
+- Workflow automation and AI integration
+- Features, fixes and refactors on existing codebases
 
-#### What I've Created
-- Robust Web Apps
-- Trustworthy REST APIs
-- Stunning UI/UX Designs
-- Dynamic and Engaging Websites
+#### Open source
+**[picktime](https://github.com/kumardeepakcom/picktime)**: a form-associated time picker web component, published on npm. [npm](https://www.npmjs.com/package/picktime) · [demo](https://kumardeepakcom.github.io/picktime/)
 
-I'm not just a developer but a partner in your online journey. Let's collaborate to expand your business online, reach more prospective clients, and boost your overall sales. 🤩
+#### Working together
+I work with development teams that need extra hands, and with founders and businesses building a product.
+
+🌐 [kumardeepak.com](https://kumardeepak.com) · 💼 [Upwork](https://www.upwork.com/freelancers/~01f4f81b81069db7ea) · ✉️ [inbox@kumardeepak.com](mailto:inbox@kumardeepak.com)
